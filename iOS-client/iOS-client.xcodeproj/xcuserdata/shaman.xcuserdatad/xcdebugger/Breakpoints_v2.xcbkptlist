@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "EDD28D71-2AB5-4422-AAB6-C406C36E3A79"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1AC26F58-3393-4EF5-8FFA-AEAC0E239111"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SelfSignedSSLCertDemo/Network.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "healthCheck(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1AC26F58-3393-4EF5-8FFA-AEAC0E239111 - 6902cd06f9c44f4b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SelfSignedSSLCertDemo.NetworkClient.healthCheck(completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SelfSignedSSLCertDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shaman/Documents/SelfSignedSSLCertDemo/SelfSignedSSLCertDemo/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "312">
+               </Location>
+               <Location
+                  uuid = "1AC26F58-3393-4EF5-8FFA-AEAC0E239111 - 6902cd06f9c44f4b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SelfSignedSSLCertDemo.NetworkClient.healthCheck(completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SelfSignedSSLCertDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shaman/Documents/SelfSignedSSLCertDemo/SelfSignedSSLCertDemo/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "420">
+               </Location>
+               <Location
+                  uuid = "1AC26F58-3393-4EF5-8FFA-AEAC0E239111 - 6902cd06f9c44f4b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SelfSignedSSLCertDemo.NetworkClient.healthCheck(completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SelfSignedSSLCertDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shaman/Documents/SelfSignedSSLCertDemo/SelfSignedSSLCertDemo/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "956">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E81E7C24-9DB5-4FEB-AEEF-5D06E20BACC0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SelfSignedSSLCertDemo/Network.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "healthCheck(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E81E7C24-9DB5-4FEB-AEEF-5D06E20BACC0 - bcad6fabd3dd90a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SelfSignedSSLCertDemo.NetworkClient.healthCheck(completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SelfSignedSSLCertDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shaman/Documents/SelfSignedSSLCertDemo/SelfSignedSSLCertDemo/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "E81E7C24-9DB5-4FEB-AEEF-5D06E20BACC0 - bcad6fabd3dd90a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SelfSignedSSLCertDemo.NetworkClient.healthCheck(completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SelfSignedSSLCertDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shaman/Documents/SelfSignedSSLCertDemo/SelfSignedSSLCertDemo/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "264">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
